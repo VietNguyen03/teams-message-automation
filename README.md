@@ -1,4 +1,4 @@
-Teams-Message-Automation
+Teams-Message-Task-Automation
 
 - When new row is added in "Task" Google sheet it will activate the workflow
 - It will send assignment message to MS Teams to that User chat via n8n Workflow
